@@ -32,3 +32,14 @@
 <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white"></a>
 <br>
 </p>
+
+
+## 💼 Work Skills Matrix
+
+| Skill              | Progress | Description                                 |
+|--------------------|----------|---------------------------------------------|
+| Communication      | ![75%](https://progress-bar.dev/75) | Strong verbal and written communication skills. Able to effectively convey ideas and information. |
+| Problem Solving    | ![90%](https://progress-bar.dev/90) | Excellent analytical skills and ability to tackle complex problems efficiently. |
+| Time Management    | ![80%](https://progress-bar.dev/80) | Proficient in prioritizing tasks and meeting deadlines in a timely manner. |
+| Teamwork           | ![85%](https://progress-bar.dev/85) | Skilled in collaborating with team members, sharing ideas, and achieving common goals. |
+| Creativity         | ![90%](https://progress-bar.dev/90) | Highly creative with the ability to generate innovative solutions and think outside the box. |
